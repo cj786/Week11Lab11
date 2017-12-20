@@ -1,0 +1,11 @@
+img{
+    width: 900px;
+    height:440px;
+}
+
+div{
+    width: 1000px;
+    height: 60px;
+    display: inline;
+    margin: 10px 10px;
+}
